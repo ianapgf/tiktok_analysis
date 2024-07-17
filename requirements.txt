@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow
+autokeras
+scikit-learn
+textblob
+flask
